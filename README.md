@@ -1,6 +1,6 @@
 # UTS_PengembalianBuku
 
-Nama  : Anindita Eka Suci Rotinsulu<br>
+Nama  : Anindita Eka Suci <br>
 Kelas : XI RPL 4<br>
 Absen : 5<br>
 
